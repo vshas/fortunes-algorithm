@@ -4,3 +4,4 @@ Python implementation of Fortune's Algorithm. Which is an algorithm for obtainin
 
 ![Example of progress plot at a specific increment.](https://github.com/vshas/fortunes-algorithm/blob/main/example.png?raw=true)
 
+<img src="https://github.com/vshas/fortunes-algorithm/blob/main/example.png?raw=true" width="48">
